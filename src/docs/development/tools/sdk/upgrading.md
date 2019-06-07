@@ -9,7 +9,7 @@ you can use the `flutter` command to upgrade your Flutter SDK
 and the packages that your app depends on.
 
 
-## One-time setup
+## One-time set up
 
 For the `flutter` command to work correctly,
 your app's `pubspec.yaml` file must require the Flutter SDK.
